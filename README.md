@@ -1,4 +1,4 @@
-# excite-sms-app
+# ExciteSMS Using VueJS
 
 ## Project setup
 ```
