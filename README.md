@@ -20,7 +20,7 @@ To get started with this application, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/excite-sms-app.git
+   git clone https://github.com/kazashim/excite-sms-app.git
    cd excite-sms-app-sms-app
    ```
 
